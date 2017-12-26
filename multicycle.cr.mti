@@ -1,0 +1,170 @@
+C:/modeltech_10.1a/examples/multicycle/alur.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/alur.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module alur
+
+Top level modules:
+	alur
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/RF.v {1 {vlog -work work -vopt {C:\modeltech_10.1a\examples\multicycle\RF.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module rf
+
+Top level modules:
+	rf
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/RFr.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/RFr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module rfr
+
+Top level modules:
+	rfr
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/alu_define.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/alu_define.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/ctrl.v {1 {vlog -work work -vopt {C:\modeltech_10.1a\examples\multicycle\ctrl.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/Itype_define.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/Itype_define.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/mips_tb.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/mips_tb.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module twomux32
+-- Compiling module twomux5
+-- Compiling module fourmux5
+-- Compiling module fourmux32
+-- Compiling module rfr
+-- Compiling module rf
+-- Compiling module pc
+-- Compiling module mdr
+-- Compiling module ir
+-- Compiling module im_4k
+-- Compiling module ext
+-- Compiling module dm_4k
+-- Compiling module beext
+-- Compiling module alu
+-- Compiling module alur
+-- Compiling module ctrl
+-- Compiling module aluctrl
+-- Compiling module mips
+-- Compiling module mips_tb
+
+Top level modules:
+	twomux32
+	twomux5
+	mips_tb
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/im.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/im.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module im_4k
+
+Top level modules:
+	im_4k
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/ALUctrl.v {1 {vlog -work work -vopt {C:\modeltech_10.1a\examples\multicycle\ALUctrl.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module aluctrl
+
+Top level modules:
+	aluctrl
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/ctrl_define.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/ctrl_define.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/store_define.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/store_define.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/beext.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/beext.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module beext
+
+Top level modules:
+	beext
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/mips.v {1 {vlog -work work -vopt {C:\modeltech_10.1a\examples\multicycle\mips.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module twomux32
+-- Compiling module twomux5
+-- Compiling module fourmux5
+-- Compiling module fourmux32
+-- Compiling module rfr
+-- Compiling module rf
+-- Compiling module pc
+-- Compiling module mdr
+-- Compiling module ir
+-- Compiling module im_4k
+-- Compiling module ext
+-- Compiling module dm_4k
+-- Compiling module beext
+-- Compiling module alu
+-- Compiling module alur
+-- Compiling module ctrl
+-- Compiling module aluctrl
+-- Compiling module mips
+
+Top level modules:
+	twomux32
+	twomux5
+	mips
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/ext.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/ext.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ext
+
+Top level modules:
+	ext
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/dm.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/dm.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module dm_4k
+
+Top level modules:
+	dm_4k
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/alu.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/alu.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/mux.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/mux.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module twomux32
+-- Compiling module twomux5
+-- Compiling module fourmux5
+-- Compiling module fourmux32
+
+Top level modules:
+	twomux32
+	twomux5
+	fourmux5
+	fourmux32
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/pc.v {1 {vlog -work work -vopt {C:\modeltech_10.1a\examples\multicycle\pc.v}
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/ir.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/ir.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module ir
+
+Top level modules:
+	ir
+
+} {} {}} C:/modeltech_10.1a/examples/multicycle/mdr.v {1 {vlog -work work -vopt C:/modeltech_10.1a/examples/multicycle/mdr.v
+Model Technology ModelSim SE vlog 10.1a Compiler 2012.02 Feb 22 2012
+-- Compiling module mdr
+
+Top level modules:
+	mdr
+
+} {} {}}
